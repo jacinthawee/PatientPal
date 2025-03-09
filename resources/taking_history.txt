@@ -1,0 +1,99 @@
+Presenting Complaint
+- Ask the patient to describe their problem using open questions (e.g. “What’s brought you into hospital today?”)
+- The presenting complaint should be expressed in the patient’s own words (e.g. “I have a tightness in my chest.”)
+- Do not interrupt the patient’s first few sentences if possible
+- Try to elicit the patient’s ideas, concerns and expectations (ICE)
+    - e.g. “I’m worried I might have cancer.” or “I think I need some antibiotics.”
+
+History of Presenting Complaint
+- Ask the patient further questions about the presenting complaint
+- A useful mnemonic for pain is “SOCRATES“ (Click here for further mnemonics)
+    Site
+    Onset
+    Character
+    Radiation
+    Alleviating factors
+    Timing
+    Exacerbating factors
+    Severity (1-10)
+
+Past Medical History
+- Ask the patient about all previous medical problems.
+- They may know these medical problems very well or they may forget some. Top ensure none are missed ask about these important conditions specifically (mnemonic: “MJTHREADS Ca”)
+    Myocardiac infarction
+    Jaundice
+    Tuberculosis
+    Hypertension
+    Rheumatic fever
+    Epilepsy
+    Asthma
+    Diabetes
+    Stroke
+    Cancer (and treatment if so)
+- If the patient is unsure of their medical problems, ask them further clarifying questions, for example “What do you usually visit your doctor for?”. Remember you can add to past medical history if any of the medication later mentioned don’t match the medical problems listed.
+- Risk factors
+    - As part of medical history ask about specific risk factors related to their presenting complaint.
+    - For example, if the patient presents with what maybe a myocardial infarction, you should ask about associated risk factors such as:
+        - Smoking, cholesterol, diabetes, hypertension, family history of ischemic heart disease.
+- Clarification of past medical history
+    - Some medical conditions require clarification of the severity. For example:
+    - COPD
+        - Ask about when the patient was diagnosed, their current and previous treatments, whether they have ever required non invasive ventilation (“a tight-fitting face mask”), whether they have been to intensive care
+    - Myocardial infarction
+        - Ask about angina, previous heart attacks, any previous angiograms (“a wire put into your heart from your leg or from your arm”), previous stenting
+    - Diabetes
+        - Duration of diagnosis, current management including insulin and usual control of diabetes i.e. well- or poorly-controlled
+ 
+Drug History
+- All medications that they take for each medication ask them to specify:
+    - Dose, frequency, route and compliance (i.e whether they regularly take these medication).  
+    - If they take medication weekly ask what day of the week they take it.
+    - If they take a medication with a variable dosing (e.g. Warfarin)  ask what their current dosing regimen is
+- Recreational drugs
+- Intravenous drug use (current or previous)
+- Over the counter (OTC) medications
+
+Allergies
+- Does the patient have any allergies?
+- If allergic to medications, clarify the type of medication and the exact reaction to that medication.
+- Specifically ask about whether there’s been a history of anaphylaxis e.g. “throat swelling, trouble breathing or puffy face”
+
+Family History
+- Ask the patient about any family diseases relevant to the presenting complaints (e.g. if the patient has presented with chest pain, ask about family history of heart attacks).
+- Enquire about the patient’s parents and sibling and, if they were deceased below 65, the cause of death
+- If relevant and a pattern has emerged from previous history sketch a short family tree
+
+Social History
+- Alcohol intake
+    - Work out the number of units per week
+- Tobacco use
+    - Quantify the number of pack years (number of packs of 20 cigarettes smoked per day multiplied by the number of years smoking)
+- Employment history
+    - Particularly relevant with exposure to certain pathogens e.g. asbestos, where you need to ask whether they have ever been exposed to any dusts
+- Home situation
+    - House or bungalow
+    - Any carers
+    - Activities of daily living (ability to wash, dress and cook)
+    - Mobility, and immobility aids
+    - Social/family support
+    - Do they think they’re managing?
+- Travel history
+- Further social history maybe required depending on the type of presenting complaint for example:
+    - Respiratory presenting complaint
+        - Ask about pets, dust exposure, asbestos, exposure to the farms, exposure to birds or if there are any hobbies
+    - Infectious to disease related
+        - Ask for a full travel history including all occasions exposure to water, exposure to foreign food, tuberculosis risk factors, HIV risk factors, recent immunisations
+
+Systems Review
+- Run through a full list of symptoms from major systems:
+- Cardiovascular: chest pain, palpitations, peripheral oedema, paroxysmal nocturnal dyspnoea (PND), orthopnoea
+- Respiratory: Cough, shortness of breath (and exercise tolerance), haemoptysis, sputum production, wheeze
+- Gastrointestinal: Abdominal pain, dysphagia, heartburn, vomiting, haematemesis, diarrohea, constipation, rectal bleeding
+- Genitourinary: Dysuria, discharge, lower urinary tract symptoms
+- Neurological: Numbness, weakness, tingling, blackouts, visual change
+- Psychiatric: Depression, anxiety
+- General review: Weight loss, appetite change, lumps or bumps (nodes), rashes, joint pain
+
+Summary
+- Provide a short summary of the history including:
+    - Name and age of the patient, presenting complaint, relevant medical history
