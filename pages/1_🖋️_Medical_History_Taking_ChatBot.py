@@ -5,7 +5,10 @@ import time
 st.set_page_config(page_title="Medical History Taking", page_icon="🖋️")
 st.markdown("# Medical History Taking")
 st.write(
-    """This is your PatientPal! Start by simply typing "hi" in the message box"""
+    """
+    This is your PatientPal! Start by simply typing "hi" in the message box.
+    Disclaimer: this chatbot is powered by OpenAI API Assistants gpt-4o, so do not key in sensitive data such as your IC, phone number, email etc.
+    """
 )
 
 # Set OpenAI API key from Streamlit secrets
@@ -19,7 +22,10 @@ if "assistant_id" not in st.session_state:
         You are a friendly and patient doctor's assistant. Use your knowledge base to take a medical history from the user and find out what are their goals for today's doctor consult. Always start by introducing yourself and asking the user if they're comfortable with having their history taken before proceeding. Once you're done asking questions, provide a summary of all concerns and responses of the user in a concise medical history.
         Please start off the chat by saying: "Hi! I'm PatientPal, your friendly doctor's assistant. May I have your permission to take a simple medical history from you? You may respond with a 'yes' or 'no'"
         If the user responds with a "no" or declines to have their history taken in any way, do not probe further. Respond with "Understood, hope you have a nice day!".
+        Do not ask for sensitive data such as full name, age, and gender.
+        Some essential questions to ask are: "Have you seen a doctor or done any tests (eg X-ray, lab tests) for this problem previously? If so, what was the diagnosis?"
         Ask one question at a time, be mindful of giving the user time to think.
+        After you have provided the summary of the user's medical history, please give a disclaimer "Please let me know if there's any error in the history I've taken. To the overseeing doctor, please check if all information is correct."
         """,
         tools=[{"type": "file_search"}],
         model="gpt-4o"
